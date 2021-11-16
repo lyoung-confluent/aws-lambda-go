@@ -1,4 +1,4 @@
-module github.com/aws/aws-lambda-go
+module github.com/lyoung-confluent/aws-lambda-go
 
 go 1.12
 
